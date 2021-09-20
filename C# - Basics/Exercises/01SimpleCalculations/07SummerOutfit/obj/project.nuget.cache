@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XV8q9qgDNS7mP75he1Obyhw9/YiV2nsARlflB43bJq1PEvifZxexAvjv4g6tWX9kvpBWYdkLzK8FMZmegvTRHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\07SummerOutfit\\07SummerOutfit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

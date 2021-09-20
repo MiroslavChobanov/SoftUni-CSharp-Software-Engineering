@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvN1wmaGCtJLZTFBVn3Ws1eSl4AyNmGofE/6jsrVh3AgT7y0wra0X3yOVXWWA3ruaeK14GEjPGhT7K6XWXiHag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\05Cinema\\05Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

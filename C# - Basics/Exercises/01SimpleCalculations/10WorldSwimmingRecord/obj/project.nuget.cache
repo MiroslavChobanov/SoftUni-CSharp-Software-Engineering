@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnuBgaNhtn2+47shc3QuOSeUiFIYcTKSIC8av5d1+w7ny0CGH/UKo2g5g1vudSJ+8SmxTfU7r5QBiQmgnTPXsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\10WorldSwimmingRecord\\10WorldSwimmingRecord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

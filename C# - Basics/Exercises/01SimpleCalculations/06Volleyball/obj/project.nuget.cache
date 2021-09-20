@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5w5eWBeaqZsRRqWVHdihqb9Sl196h0Xe0MZh9R6O2uApb5GqzdgqrWMHbgyQZ9lKhq1XO39yyBomxntI8vbKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\06Volleyball\\06Volleyball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

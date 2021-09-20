@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdzQJj2SZETRVKQI0AaFh8B7CYk3n9hy2H7LNnKoUvdrrK3GNwABwg4Ij275PUBiSam8avgonNtQiiB/MelyKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\08NewHouse\\08NewHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

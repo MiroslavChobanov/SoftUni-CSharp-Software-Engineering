@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLUVYK5GCIyxazJjSN2rgJKTKFujk+ffyFEM9cP5IF9ogochKmYwZ+QQOSQhF7XOp7dayim4X23VsYBFo9HVNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\04TimePlus15Minutes\\04TimePlus15Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

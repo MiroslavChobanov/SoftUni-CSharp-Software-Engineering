@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SBMxRDD/LENgmZU+/uCDoO1cvygF5HtDWOUT776fPiL/OEN793/RTLnr6BZdi58D2DtaPADtGXt1oys1GqY89w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\03MetricConverter\\03MetricConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
