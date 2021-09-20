@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hFuyr+O8f5if+EFyBRi1wfeJ2sbXJEUq0X00DbRE2idh3dmgfhSOaDRIGykjyX/+7oGJE+cSQd7Cva+hlqaTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\BonusScore\\02BonusScore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
