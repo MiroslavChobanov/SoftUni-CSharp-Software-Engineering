@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFrwpofnPUBPOJt71iCG951W/TCN6L6RZK8IyX7A9r90RSfjN8+yOlUkYbBDyRkTHyQsKZnSu+AIyf8cna6qGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ForLoop\\04Histogram\\04Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

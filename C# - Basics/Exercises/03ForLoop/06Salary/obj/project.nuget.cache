@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6RdMl61AK+3iLD2QEAzh6TZv9qwH2F2m0bhakmrIIW2QsoEf4ctlquuQY43dgL9yXAoxiGvxLGGh1AU1p5xpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ForLoop\\06Salary\\06Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
