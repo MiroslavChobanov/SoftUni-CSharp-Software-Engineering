@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y25lBn/ecw9lu0/fK3Ax9F1VbCXtuBDEAiYpe7/FEHrKwaGwrCCi283hvKinsUAHpndpQUhjKcC0jr1QQCCthQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\05NestedLoops\\03LuckyNumbers\\03LuckyNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfbhDtn4lqaxzjdjF6mCmlW28GiWCIipedNZzOkEW46DNc3FtDl5rdZhrwfy2fO+pJRpHF6mu6Cj1fGCsIkKHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\05NestedLoops\\02LettersCombinations\\02LettersCombinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKWZBJbgtAAuiEAyX/XTOxvfSGMU3vG2Hl9WZuO7jAU5Ttu3l648G6MSS8BIXqQaeZOynwTB4LG3CNUQpHQ+Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\05NestedLoops\\05NestedLoops\\01FirstExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
