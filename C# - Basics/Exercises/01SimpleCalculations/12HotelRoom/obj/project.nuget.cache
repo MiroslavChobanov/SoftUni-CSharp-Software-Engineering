@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgawaIC6OU1w63HTijXuySfo3ywf49cRX1QmzYkj6pNajqt14fw7OGoFvmHmMCgiPieZ9dEmxaZ0PCct5fq4zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\ConditionalStatements\\12HotelRoom\\12HotelRoom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
