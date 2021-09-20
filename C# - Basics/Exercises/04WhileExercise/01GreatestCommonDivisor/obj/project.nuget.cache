@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JdDi+3dytBgI+xes+I5ai6/54FdVB29HgLF8PJRL7jor62jwspsqifbU3TmJbuh1FX3N/AcBIQzhr7NPrdCtQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\04WhileExercise\\04WhileExercise\\01GreatestCommonDivisor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

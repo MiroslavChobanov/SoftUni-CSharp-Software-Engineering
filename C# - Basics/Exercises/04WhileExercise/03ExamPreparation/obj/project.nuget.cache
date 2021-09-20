@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Xh1RQy6htkjztI67wjl1pfTe2FTIoEOFiinSjry1TMmV5QWTBLs72q22hAOdfyqg5+ZdCXxJ0EBcDgBL+9JyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\04WhileExercise\\03ExamPreparation\\03ExamPreparation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

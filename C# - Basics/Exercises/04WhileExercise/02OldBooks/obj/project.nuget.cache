@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x68V9P7zxc3JJY1ZEFgQ8ZqsYzNgANa+fIONJE37ob5qEdUW+rjDplK8QLQhkPfbpadp9EEK/dMIXdTNHi1MfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\04WhileExercise\\02OldBooks\\02OldBooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

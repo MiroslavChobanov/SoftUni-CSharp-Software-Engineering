@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/bZG8+QR14FRvCJqIhCbQrOa7f3q6IsHqFGmy4KnmusILQHhZv4mgYNkDZwJ4F7rKPf/H2Hjde0EXfW8c0Opg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miroslav.chobanov\\source\\repos\\04WhileExercise\\06Cake\\06Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miroslav.chobanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
