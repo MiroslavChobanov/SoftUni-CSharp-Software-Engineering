@@ -1,0 +1,9 @@
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\miroslav.chobanov\Desktop\Softuni\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
