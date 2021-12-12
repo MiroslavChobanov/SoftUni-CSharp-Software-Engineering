@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.exe
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.deps.json
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.runtimeconfig.json
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.runtimeconfig.dev.json
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.dll
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\bin\Debug\netcoreapp3.1\StackAndQueueExcercise.pdb
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.AssemblyInfo.cs
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.dll
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.pdb
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.genruntimeconfig.cache
+C:\Users\asus\source\repos\StackAndQueueExcercise\StackAndQueueExcercise\obj\Debug\netcoreapp3.1\StackAndQueueExcercise.csprojAssemblyReference.cache
