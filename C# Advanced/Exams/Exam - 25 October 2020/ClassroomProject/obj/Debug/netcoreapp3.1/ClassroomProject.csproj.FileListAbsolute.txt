@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 25 October 2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

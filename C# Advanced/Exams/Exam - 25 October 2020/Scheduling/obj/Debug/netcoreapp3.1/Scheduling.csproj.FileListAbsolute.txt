@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\asus\source\repos\Exam - 25 October 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache
