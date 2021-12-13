@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\asus\Desktop\2021\C# ADVANCED\Exams\Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache

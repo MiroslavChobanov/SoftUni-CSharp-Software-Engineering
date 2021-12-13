@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakeryOpenning", "Openning\BakeryOpenning.csproj", "{9497584C-C046-49F6-BD79-C4E4B8574354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooking", "Cooking\Cooking.csproj", "{B3DCEEB0-7B77-4B19-8D76-3C6C6ECE9BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selling", "Selling\Selling.csproj", "{6D9AA60A-E9AA-4ABE-A860-C161CE85C29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9497584C-C046-49F6-BD79-C4E4B8574354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9497584C-C046-49F6-BD79-C4E4B8574354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9497584C-C046-49F6-BD79-C4E4B8574354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9497584C-C046-49F6-BD79-C4E4B8574354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DCEEB0-7B77-4B19-8D76-3C6C6ECE9BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DCEEB0-7B77-4B19-8D76-3C6C6ECE9BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DCEEB0-7B77-4B19-8D76-3C6C6ECE9BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DCEEB0-7B77-4B19-8D76-3C6C6ECE9BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9AA60A-E9AA-4ABE-A860-C161CE85C29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9AA60A-E9AA-4ABE-A860-C161CE85C29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9AA60A-E9AA-4ABE-A860-C161CE85C29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9AA60A-E9AA-4ABE-A860-C161CE85C29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732AEAD6-A271-40FF-AE4C-81551F81B46F}
+	EndGlobalSection
+EndGlobal
