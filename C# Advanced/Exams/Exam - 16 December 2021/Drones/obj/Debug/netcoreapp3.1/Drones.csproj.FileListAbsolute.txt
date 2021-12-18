@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+C:\Users\asus\Desktop\exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\asus\Desktop\exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.exe
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.deps.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.runtimeconfig.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.dll
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.pdb
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.AssemblyInfo.cs
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.dll
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.pdb
+C:\Users\asus\source\repos\Exam - 16 December 2021\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.genruntimeconfig.cache

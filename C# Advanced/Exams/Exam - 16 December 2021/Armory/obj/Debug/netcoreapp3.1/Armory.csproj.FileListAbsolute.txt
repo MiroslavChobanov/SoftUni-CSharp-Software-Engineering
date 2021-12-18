@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\asus\source\repos\Exam - 16 December 2021\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache
